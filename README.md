@@ -1,1 +1,1 @@
-# DOcumentación de laboratorio ciberseguridad
+# Documentación de laboratorio ciberseguridad
